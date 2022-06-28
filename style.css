@@ -1,5 +1,6 @@
 body{
     background-color:  hsl(30, 38%, 92%);
+    font-weight: bold;
 }
 img{
     border-top-left-radius: 10px;
@@ -11,15 +12,19 @@ img{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+<<<<<<< HEAD
     align-items: center;
     min-height: 100vh;
+=======
+    margin: 80px auto;
+>>>>>>> c77a9c6d4c8d495b1fb8e26fb0a837403f016caf
     border-top-left-radius: 10px;
 }
 
 .card-sect{
     padding: 20px;
     background-color: hsl(0, 0%, 100%);
-    width: 12.8em;
+    width: 13em;
     height: 25.6em;
     border-top-left-radius: none;
     border-top-right-radius: 10px;
@@ -40,7 +45,7 @@ h1{
 .sentence{
     font-family: 'Montserrat', sans-serif;
     color: hsl(228, 12%, 48%);
-    font-size: 12.5px;
+    font-size: 14px;
     line-height: 20px;
 }
 .price{
@@ -49,6 +54,7 @@ h1{
 }
 .origin{
     font-size: 35px;
+    font-weight: bold;
     color: hsl(158, 36%, 37%);
 }
 .canceled{
@@ -88,7 +94,7 @@ svg{
     .container{
         display: flex;
         flex-direction: column;
-        margin: auto;
+        margin: 45px auto;
         background-color: hsl(0, 0%, 100%);
         width: 300px;
         border-top-left-radius: 10px;
@@ -115,7 +121,7 @@ svg{
     .sentence{
         font-family: 'Montserrat', sans-serif;
         color: hsl(228, 12%, 48%);
-        font-size: 12.5px;
+        font-size: 13px;
         line-height: 20px;
     }
     .price{
@@ -137,6 +143,7 @@ svg{
         align-items: center;
         font-family: 'Montserrat', sans-serif;
         font-size: 12px;
+        font-weight: bold;
         margin-left: 30px;
         padding-bottom: 1px;
         width: 100%;
