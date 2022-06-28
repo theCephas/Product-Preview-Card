@@ -7,7 +7,7 @@ This project was built by me, with the help of the net! My favorite reliable sou
 
 ### Screenshot
 
-![](product-preview.png)
+![](new-screenshot.png)
 
 ### Challenges
 
