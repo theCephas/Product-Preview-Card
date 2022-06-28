@@ -40,7 +40,7 @@ h1{
 .sentence{
     font-family: 'Montserrat', sans-serif;
     color: hsl(228, 12%, 48%);
-    font-size: 12.5px;
+    font-size: 14px;
     line-height: 20px;
 }
 .price{
@@ -49,6 +49,7 @@ h1{
 }
 .origin{
     font-size: 35px;
+    font-weight: bold;
     color: hsl(158, 36%, 37%);
 }
 .canceled{
@@ -137,6 +138,7 @@ svg{
         align-items: center;
         font-family: 'Montserrat', sans-serif;
         font-size: 12px;
+        font-weight: bold;
         margin-left: 30px;
         padding-bottom: 1px;
         width: 100%;
