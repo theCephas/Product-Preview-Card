@@ -1,5 +1,6 @@
 body{
     background-color:  hsl(30, 38%, 92%);
+    font-weight: bold;
 }
 img{
     border-top-left-radius: 10px;
@@ -11,14 +12,14 @@ img{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    margin: 75px auto;
+    margin: 50% auto;
     border-top-left-radius: 10px;
 }
 
 .card-sect{
     padding: 20px;
     background-color: hsl(0, 0%, 100%);
-    width: 12.8em;
+    width: 13em;
     height: 25.6em;
     border-top-left-radius: none;
     border-top-right-radius: 10px;
@@ -87,7 +88,7 @@ svg{
     .container{
         display: flex;
         flex-direction: column;
-        margin: auto;
+        margin: 50px auto;
         background-color: hsl(0, 0%, 100%);
         width: 300px;
         border-top-left-radius: 10px;
