@@ -10,22 +10,19 @@ img{
 }
 .container{
     display: flex;
-    flex-wrap: wrap;
     justify-content: center;
-<<<<<<< HEAD
     align-items: center;
     min-height: 100vh;
-=======
-    margin: 80px auto;
->>>>>>> c77a9c6d4c8d495b1fb8e26fb0a837403f016caf
     border-top-left-radius: 10px;
 }
 
 .card-sect{
-    padding: 20px;
+    padding: 17px; 
+    margin-top: 5.4px;
+    margin-bottom: 9px;
     background-color: hsl(0, 0%, 100%);
-    width: 13em;
-    height: 25.6em;
+    width: 300px;
+    height:417px;
     border-top-left-radius: none;
     border-top-right-radius: 10px;
     border-bottom-left-radius: none;
@@ -34,7 +31,7 @@ img{
 .perf{
     font-family: 'Montserrat', sans-serif;
     letter-spacing: 5px;
-    font-size: 12px;
+    font-size: 11px;
     color: hsl(228, 12%, 48%);
 }
 h1{
@@ -45,7 +42,7 @@ h1{
 .sentence{
     font-family: 'Montserrat', sans-serif;
     color: hsl(228, 12%, 48%);
-    font-size: 14px;
+    font-size: 13px;
     line-height: 20px;
 }
 .price{
@@ -68,7 +65,7 @@ button{
     align-items: center;
     font-family: 'Montserrat', sans-serif;
     font-size: 12px;
-    margin-left: 20px;
+    margin: auto;
     width: 80%;
     padding: 10px;
     border: none;
@@ -103,8 +100,7 @@ svg{
         border-bottom-right-radius: 10px;
     }
     .card-sect{
-        padding: 10px;
-        padding-bottom: 10px;
+        width: 200px;
         border-bottom-left-radius: 10px;
     }
     .perf{
@@ -144,7 +140,7 @@ svg{
         font-family: 'Montserrat', sans-serif;
         font-size: 12px;
         font-weight: bold;
-        margin-left: 30px;
+        margin: auto;
         padding-bottom: 1px;
         width: 100%;
         padding: 10px;
