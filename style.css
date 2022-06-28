@@ -89,7 +89,7 @@ svg{
     .container{
         display: flex;
         flex-direction: column;
-        margin: 50px auto;
+        margin: 45px auto;
         background-color: hsl(0, 0%, 100%);
         width: 300px;
         border-top-left-radius: 10px;
