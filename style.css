@@ -12,7 +12,7 @@ img{
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 100vh;
+    margin: 40px auto;
     border-top-left-radius: 10px;
 }
 
@@ -91,6 +91,8 @@ svg{
     .container{
         display: flex;
         flex-direction: column;
+        justify-content: center;
+        align-items: center;
         margin: 45px auto;
         background-color: hsl(0, 0%, 100%);
         width: 300px;
